@@ -1,0 +1,9 @@
+Flask
+pandas
+numpy
+requests
+PyYAML
+Jinja2
+SQLAlchemy
+cryptography
+gunicorn

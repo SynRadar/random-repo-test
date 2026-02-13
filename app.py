@@ -53,7 +53,7 @@ def calculate():
     expression = request.args.get("expr")
     return str(eval(expression))
 
-print("prod & local 16")
+print("prod 162")
 
 if __name__ == "__main__":
     app.run(debug=True)
